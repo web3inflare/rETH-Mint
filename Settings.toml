@@ -1,0 +1,8 @@
+private_key = "0x00000" # 密钥
+max_transactions = 2 # Mint 数量
+rpc_url = "https://eth-goerli.public.blastapi.io"  # rpc
+max_attempts = 30 # 检测上链时间 
+num_threads = 100 # 线程
+difficulty = "0x7777" # 难度 0x7777 0x77777 0x777777
+gas_type = "standard"  # rapid 超快 fast 快  标准 standard 慢 slow
+network = "Mainnet" # Goerli或Mainnet
